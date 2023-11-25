@@ -6541,7 +6541,6 @@ patreon.com##.eaymqM:not(:last-child), .gECWon:not(:last-child):style(margin-rig
 patreon.com##.ebITgp, .iXIfQn.d9l0cn-1:style(position: absolute !important; top: 0 !important;)
 patreon.com##.hLZXLo:style(height: 8rem !important; width: 8rem !important;)
 patreon.com##.middle-xs:style(height: 72px !important;)
-patreon.com##.reactWrapper > div:nth-of-type(1), header:style(position: absolute !important;)
 paul.is-a-geek.org##.site-navigation-fixed.navigation-top:style(position: relative !important;)
 paul.reviews##.postinfo:style(position: absolute !important;)
 pay.google.com##.b3id-standalone-container-onebar.b3-standalone-container-onebar:style(position: absolute !important;)
