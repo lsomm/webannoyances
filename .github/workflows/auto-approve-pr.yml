@@ -14,7 +14,6 @@ jobs:
       pull-requests: write
     if: |
       ${{ github.actor == 'LanikSJ' }}
-      ${{ github.actor == 'Sonic5435325' }}
       ${{ github.actor == 'github-actions' }}
     steps:
     - uses: hmarr/auto-approve-action@v4
